@@ -1,12 +1,14 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/restaurant-ui/node_modules
+restaurant-ui/node_modules
+
+
 
 
 
 # production
-/restaurant-ui/build
+restaurant-ui/build
 
 # misc
 .DS_Store
